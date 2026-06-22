@@ -1,0 +1,10 @@
+# skhd hotkeys for osx-tools/screen-recording
+#
+# Symlink this file to ~/.skhdrc (see screen-recording/README.md), then:
+#   skhd --start-service
+#
+# ctrl + alt + cmd - r : start a full-screen QuickTime recording
+ctrl + alt + cmd - r : osascript "$HOME/dev/osx-tools/screen-recording/start-screen-recording.applescript"
+
+# ctrl + alt + cmd - s : stop the current recording
+ctrl + alt + cmd - s : osascript "$HOME/dev/osx-tools/screen-recording/stop-screen-recording.applescript"
