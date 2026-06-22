@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Compiled AppleScript
+*.scpt
+
+# Built apps
+*.app
