@@ -1,6 +1,6 @@
 # osx-tools
 
-A small collection of macOS automation tools and scripts.
+A toolbox of small macOS tools and scripts I often use to do things faster.
 
 ## Tools
 
